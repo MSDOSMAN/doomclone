@@ -6,4 +6,4 @@ This was my first time using raylib and I was writing under a time contraint: do
 
 
 
-NOTE: resources/DOOMDOOM.mp3 was created by Richard Lai and is based off of Andrey Avkhimovich's remake of Andrew Hulshult's *"I Sawed the Demons"*.
+NOTE: resources/DOOMDOOM.mp3 was created by Richard Lai and is based off of Andrey Avkhimovich's remake of Bobby Prince's *"I Sawed the Demons"*.
